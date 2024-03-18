@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair_Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53943262-BC18-43DF-9FFC-0F6B1E1889CC}|KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\kanjidefferencehuntrepair_homework\\kanjidefferencehuntrepair_homework\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53943262-BC18-43DF-9FFC-0F6B1E1889CC}|KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework.vbproj|solutionrelative:kanjidefferencehuntrepair_homework\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53943262-BC18-43DF-9FFC-0F6B1E1889CC}|KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\kanjidefferencehuntrepair_homework\\kanjidefferencehuntrepair_homework\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53943262-BC18-43DF-9FFC-0F6B1E1889CC}|KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework.vbproj|solutionrelative:kanjidefferencehuntrepair_homework\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53943262-BC18-43DF-9FFC-0F6B1E1889CC}|KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\kanjidefferencehuntrepair_homework\\kanjidefferencehuntrepair_homework\\kanjidefferencehuntrepair_homework.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{53943262-BC18-43DF-9FFC-0F6B1E1889CC}|KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework.vbproj|solutionrelative:kanjidefferencehuntrepair_homework\\kanjidefferencehuntrepair_homework.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework\\Form1.vb",
+              "RelativeDocumentMoniker": "KanjiDefferenceHuntRepair_Homework\\Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework\\Form1.vb",
+              "RelativeToolTip": "KanjiDefferenceHuntRepair_Homework\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-18T00:17:54.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KanjiDefferenceHuntRepair_Homework",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework.vbproj",
+              "RelativeDocumentMoniker": "KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework.vbproj",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework.vbproj",
+              "RelativeToolTip": "KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-03-18T00:07:28.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework\\Form1.vb",
+              "RelativeDocumentMoniker": "KanjiDefferenceHuntRepair_Homework\\Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\KanjiDefferenceHuntRepair_Homework\\KanjiDefferenceHuntRepair_Homework\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "KanjiDefferenceHuntRepair_Homework\\Form1.vb [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-17T23:58:52.819Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

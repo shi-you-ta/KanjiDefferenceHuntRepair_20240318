@@ -1,0 +1,16 @@
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\bin\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.exe
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\bin\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.deps.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\bin\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.runtimeconfig.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\bin\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\bin\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.FormGame.resources
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.vbproj.GenerateResource.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.AssemblyInfoInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.AssemblyInfo.vb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.vbproj.CoreCompileInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\obj\Debug\net8.0-windows\refint\KanjiDefferenceHuntRepair_Homework.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\obj\Debug\net8.0-windows\KanjiDefferenceHuntRepair_Homework.genruntimeconfig.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\KanjiDefferenceHuntRepair_Homework\KanjiDefferenceHuntRepair_Homework\obj\Debug\net8.0-windows\ref\KanjiDefferenceHuntRepair_Homework.dll
